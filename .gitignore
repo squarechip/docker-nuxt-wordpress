@@ -1,0 +1,15 @@
+.env
+app/logs
+app/*.log
+app/npm-debug.log*
+app/node_modules/
+app/.nuxt
+app/.npm
+app/.eslintcache
+app/dist
+mariadb/
+wordpress/*
+!wordpress/wp-content/
+wordpress/wp-content/*
+!wordpress/wp-content/plugins/
+!wordpress/wp-content/themes/
